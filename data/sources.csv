@@ -1,0 +1,22 @@
+id,name,kind,url,divisions,status,excluded,observations_this_run,items_this_run
+gh_jumia,Jumia Ghana,ecommerce,https://www.jumia.com.gh,01 02 03 05 08 13,verified,False,16399,7577
+gh_melcom,Melcom online (Magento),ecommerce,https://melcom.com,01 02 05 08 09 13,verified,False,0,0
+gh_npa_fuel,NPA — fuel price floors (twice a month),tariff,https://npa.gov.gh/price-floor/,07 04,partial,False,4,4
+gh_purc,PURC — gazetted electricity and water tariffs (quarterly),tariff,https://www.purc.com.gh/attachment/67864-20261001121001.pdf,04,verified,False,6,6
+gh_mtn,MTN Ghana — data tariffs,tariff,https://mtn.com.gh/insight/tariffs/,08,partial,False,32,29
+gh_nhis,NHIS Medicines List — reimbursement prices,tariff,https://nhis.gov.gh/medlist,06,verified,False,21,21
+gh_ug_fees,University of Ghana — fee schedules,tariff,https://www.ug.edu.gh/aad/sites/academic.ug.edu.gh/files/2026-01/2025_26%20COLLEGE%20OF%20HUMANITIES%20FEES.pdf,10,verified,False,2,2
+gh_jiji,Jiji Ghana — used cars and goods,listing,https://jiji.com.gh/cars,07,partial,False,0,0
+gh_wfp_hdx,WFP market prices (HDX),market,https://data.humdata.org/dataset/wfp-food-prices-for-ghana,01,partial,False,0,0
+gh_worldbank,World Bank — official CPI (annual),benchmark,https://api.worldbank.org/v2/country/GHA/indicator/FP.CPI.TOTL,,verified,False,0,0
+gh_imf,IMF DataMapper — inflation (WEO),benchmark,https://www.imf.org/external/datamapper/api/v1/PCPIPCH/GHA,,verified,False,0,0
+gh_mtn_turbonet,MTN Ghana — Turbonet fixed broadband bundles,tariff,https://mtn.com.gh/insight/tariffs/,08,partial,False,7,7
+gh_momo_fees,MTN MoMo — cash-out fees,tariff,https://help-center.mtn.com.gh/hc/en-us/articles/17409333034130-What-are-the-new-cash-out-fees,12,partial,False,3,3
+gh_trotro,"GPRTU / GRTCC — road transport fares (trotro, shared taxi, inter-city)",tariff,https://www.myjoyonline.com/public-transport-fares-go-up-by-8-from-september-26-check-how-much-you-will-pay/,07,partial,False,7,7
+gh_shoprite,Shoprite Ghana,ecommerce,https://www.shoprite.com.gh,01,excluded,True,0,0
+gh_glovo,Glovo Ghana,ecommerce,https://glovoapp.com/gh/en/accra/,11,excluded,True,0,0
+gh_meqasa,Meqasa rents,rent,https://www.meqasa.com/houses-for-rent-in-ghana,04,excluded,True,0,0
+gh_wekuyummy,WekuYummy (Tema) — restaurant menus,ecommerce,https://wekuyummy.coopcycle.org/en/restaurant/65-jay-s-pub,11,excluded,True,0,0
+gh_fewsnet,FEWS NET market prices,market,https://fews.net/data/markets-and-trade,01,excluded,True,0,0
+gh_rtfp,World Bank RTFP,market,https://microdata.worldbank.org/index.php/catalog/4483,01,excluded,True,0,0
+gh_esoko,Esoko market prices,market,https://esoko.com,01,excluded,True,0,0

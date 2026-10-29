@@ -1,0 +1,67 @@
+{
+ "iso2": "GH",
+ "iso3": "GHA",
+ "name_en": "Ghana",
+ "name_fr": "Ghana",
+ "currency": "GHS",
+ "symbol": "GH₵",
+ "languages": [
+  "en"
+ ],
+ "brand": "AfDB – Data Innovation for Africa (DI4A)",
+ "version": "2.0.0",
+ "generated": "2026-10-29T15:38Z",
+ "frequency": "M",
+ "periods": [
+  "2021-10",
+  "2021-11",
+  "2021-12",
+  "2022-01",
+  "2022-02",
+  "2022-03",
+  "2022-04",
+  "2022-05",
+  "2022-06",
+  "2022-07",
+  "2022-08",
+  "2022-09",
+  "2022-10",
+  "2022-11",
+  "2022-12",
+  "2023-01",
+  "2023-02",
+  "2023-03",
+  "2023-04",
+  "2023-05",
+  "2023-06",
+  "2023-07",
+  "2026-10"
+ ],
+ "weights_status": "given",
+ "weights_source": "GSS CPI bulletins, Weight column of Tables 3-4 (April 2022, then '2018 = 100' series; identical in May 2022). Sums to 100.02 (rounding). Weights come from the 2016/17 GLSS 7 (weight reference 2017, per GSS as reported by Adom, 10 Jun 2026); the series is now published as 'New Series (2021 = 100)' (cover of the September 2024 bulletin) after the price reference was moved to 2021 to cover the six new regions. No rebased weights published as of 28 Oct 2026: GSS targets mid-2027. Note: GSS releases in 2026 quote food at 42.7 % (vs 43.12 here), so the 2021 = 100 division weights may differ slightly — to be confirmed.",
+ "weights_url": "https://statsghana.gov.gh/gssmain/fileUpload/Price%20Indices/Bulletin%20_%20CPI%20April%202022.pdf",
+ "basket_share": 0.4315,
+ "demo": false,
+ "excluded_natures": [
+  "rent_ask"
+ ],
+ "title_en": "Experimental consumer price index",
+ "title_fr": "Indice expérimental des prix à la consommation",
+ "capital": {
+  "name": "Accra",
+  "lat": 5.6037,
+  "lon": -0.187
+ },
+ "kpi": {
+  "index": 180.13,
+  "change": 0.0,
+  "cumulative": 80.13,
+  "period": "2026-10",
+  "first_period": "2021-10",
+  "observations": 16481,
+  "items": 7656,
+  "sources": 9,
+  "divisions": 1,
+  "matched": 0
+ }
+}

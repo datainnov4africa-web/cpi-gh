@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="900" height="360" rx="14" fill="#FFFFFF" stroke="#DCE3DE"/>
+<text x="70" y="34" font-size="18" font-weight="700" fill="#1F2A24">All-items index<tspan font-weight="400" fill="#5B6B62" font-size="14">  (first period = 100)</tspan></text>
+<line x1="70" x2="870" y1="300.0" y2="300.0" stroke="#EEF2EF"/><text x="60" y="304.0" font-size="12" fill="#5B6B62" text-anchor="end">59.9</text>
+<line x1="70" x2="870" y1="240.0" y2="240.0" stroke="#EEF2EF"/><text x="60" y="244.0" font-size="12" fill="#5B6B62" text-anchor="end">108.3</text>
+<line x1="70" x2="870" y1="180.0" y2="180.0" stroke="#EEF2EF"/><text x="60" y="184.0" font-size="12" fill="#5B6B62" text-anchor="end">156.8</text>
+<line x1="70" x2="870" y1="120.0" y2="120.0" stroke="#EEF2EF"/><text x="60" y="124.0" font-size="12" fill="#5B6B62" text-anchor="end">205.2</text>
+<line x1="70" x2="870" y1="60.0" y2="60.0" stroke="#EEF2EF"/><text x="60" y="64.0" font-size="12" fill="#5B6B62" text-anchor="end">253.7</text>
+<polygon points="70.0,250.3 106.4,245.1 142.7,242.2 179.1,232.7 215.5,241.0 251.8,217.9 288.2,207.2 324.5,203.9 360.9,206.1 397.3,201.7 433.6,197.4 470.0,187.6 506.4,200.4 542.7,190.4 579.1,182.0 615.5,179.5 651.8,141.0 688.2,156.4 724.5,92.6 760.9,87.7 797.3,92.2 833.6,94.2 870.0,94.2 870.0,168.9 833.6,168.9 797.3,167.4 760.9,166.6 724.5,171.1 688.2,208.6 651.8,194.7 615.5,219.2 579.1,221.2 542.7,225.1 506.4,237.5 470.0,230.1 433.6,231.5 397.3,227.2 360.9,229.0 324.5,227.1 288.2,227.7 251.8,235.7 215.5,272.3 179.1,245.5 142.7,252.0 106.4,253.9 70.0,250.3" fill="#00703C" fill-opacity="0.12"/>
+<polyline points="70.0,250.3 106.4,249.8 142.7,247.5 179.1,239.1 215.5,268.0 251.8,230.2 288.2,219.3 324.5,218.4 360.9,221.4 397.3,218.5 433.6,221.1 470.0,215.6 506.4,225.4 542.7,214.8 579.1,211.2 615.5,207.1 651.8,180.0 688.2,194.4 724.5,151.5 760.9,147.5 797.3,147.7 833.6,151.1 870.0,151.1" fill="none" stroke="#0B3D2E" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="70.0" cy="250.3" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="70.0" y="322" font-size="12" fill="#5B6B62" text-anchor="start">2021-10</text>
+<circle cx="106.4" cy="249.8" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="142.7" cy="247.5" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="142.7" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2021-12</text>
+<circle cx="179.1" cy="239.1" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="215.5" cy="268.0" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="215.5" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-02</text>
+<circle cx="251.8" cy="230.2" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="288.2" cy="219.3" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="288.2" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-04</text>
+<circle cx="324.5" cy="218.4" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="360.9" cy="221.4" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="360.9" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-06</text>
+<circle cx="397.3" cy="218.5" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="433.6" cy="221.1" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="433.6" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-08</text>
+<circle cx="470.0" cy="215.6" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="506.4" cy="225.4" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="506.4" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-10</text>
+<circle cx="542.7" cy="214.8" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="579.1" cy="211.2" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="579.1" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2022-12</text>
+<circle cx="615.5" cy="207.1" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="651.8" cy="180.0" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="651.8" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2023-02</text>
+<circle cx="688.2" cy="194.4" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="724.5" cy="151.5" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="724.5" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2023-04</text>
+<circle cx="760.9" cy="147.5" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="797.3" cy="147.7" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="797.3" y="322" font-size="12" fill="#5B6B62" text-anchor="middle">2023-06</text>
+<circle cx="833.6" cy="151.1" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<circle cx="870.0" cy="151.1" r="4.5" fill="#FFFFFF" stroke="#0B3D2E" stroke-width="2.5"/>
+<text x="870.0" y="322" font-size="12" fill="#5B6B62" text-anchor="end">2026-10</text>
+<text x="870.0" y="139.1" font-size="14" font-weight="700" fill="#0B3D2E" text-anchor="end">180.1</text>
+<text x="870" y="348" font-size="11.5" fill="#5B6B62" text-anchor="end">Band: 90 % bootstrap interval (sample of items)</text>
+</svg>
